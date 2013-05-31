@@ -1,0 +1,16 @@
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\DatabaseCleaner.dll
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\DatabaseCleaner.pdb
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\NHibernate.dll
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\NHibernate.xml
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\obj\Debug\DatabaseCleaner.csprojResolveAssemblyReference.cache
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\obj\Debug\DatabaseCleaner.dll
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\obj\Debug\DatabaseCleaner.pdb
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\DatabaseCleaner.dll.config
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\NDbUnit.Core.dll
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\NDbUnit.SqlClient.dll
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\NDbUnit.SqlClient.pdb
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\Datasets\Template.xml
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\Datasets\DataSet.Designer.cs
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\Datasets\DataSet.xsc
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\Datasets\DataSet.xsd
+C:\IPCP\Git\ipcp2\implementation\ticketmanager\DatabaseCleaner\bin\Debug\Datasets\DataSet.xss

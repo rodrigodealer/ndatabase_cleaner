@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MyDataset xmlns="http://tempuri.org/Dataset.xsd">
+  <Template>
+    <Id>1</Id>
+    <Name>John</Name>
+    <Description>Doe</Description>
+    <DeviceType>Doe</DeviceType>
+  </Template>
+  <Template>
+    <Id>2</Id>
+    <Name>John</Name>
+    <Description>Does</Description>
+    <DeviceType>Doe</DeviceType>
+  </Template>
+</MyDataset>
